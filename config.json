@@ -1,0 +1,18 @@
+{
+  "token": "ODI5NjkwMzQwODE0MjI1NDA4.YG7zoQ.dOZ2vY1SN7DEllV7Aqa_OkmCcng",
+  "password": "your-discord-password",
+  "prefix": ".",
+
+  "nitro_sniper": true,
+  "giveaway_sniper": true,
+  "slotbot_sniper": true,
+  "privnote_sniper": true,
+
+  "stream_url": "https://twitch.tv/03qb",
+  "tts_language": "en",
+
+  "bitly_key": "bitley-key-here",
+  "cat_key": "cat-key-here",
+  "weather_key": "weather-key-here",
+  "cuttly_key": "cuttly-key-here"
+}
